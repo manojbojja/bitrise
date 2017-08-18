@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "427734A61C5547109A8E3C8C0C8BE6B42A87F465",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "69192DC8B2E517BEF8EF0EEDA1D033973353FFA4" : 9223372036854775807,
+    "427734A61C5547109A8E3C8C0C8BE6B42A87F465" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49F9BA47-7C4D-4EB8-833B-2FFB0DD4AFC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "69192DC8B2E517BEF8EF0EEDA1D033973353FFA4" : "",
+    "427734A61C5547109A8E3C8C0C8BE6B42A87F465" : "Bitrise\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bitrise",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bitrise.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/manojbojja\/bitrise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "427734A61C5547109A8E3C8C0C8BE6B42A87F465"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/manojbojja\/ds-playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69192DC8B2E517BEF8EF0EEDA1D033973353FFA4"
+    }
+  ]
+}
