@@ -342,7 +342,7 @@
 				DEVELOPMENT_TEAM = J464K53M8B;
 				INFOPLIST_FILE = Bitrise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Bitrise;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shawacademy.development;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -356,7 +356,7 @@
 				DEVELOPMENT_TEAM = J464K53M8B;
 				INFOPLIST_FILE = Bitrise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Bitrise;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shawacademy.development;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -381,6 +381,7 @@
 				6F0E4F471F46B06000214C58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
